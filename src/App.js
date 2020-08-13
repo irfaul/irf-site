@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import {Route, Link } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
@@ -38,7 +38,6 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router>
         <Container className='p-0' fluid= {true}>
           <Navbar sticky='top' bg='light' expand='lg'>
             <Navbar.Brand className='navbar-brand pl-5'>
@@ -67,7 +66,6 @@ class App extends React.Component {
           <Footer />
 
         </Container>
-      </Router>
     );
   }  
 }

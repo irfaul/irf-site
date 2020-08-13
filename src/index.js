@@ -4,13 +4,15 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import {HashRouter as Router} from 'react-router-dom';
+
 import './assets/css/bootstrap.min.css';
 import './assets/css/agency.min.css';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Router>
     <App />
-  </React.StrictMode>,
+  </Router>,
   document.getElementById('root')
 );
 
