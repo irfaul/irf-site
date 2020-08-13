@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/irf-site/static/css/main.f12cc950.chunk.css",
-    "main.js": "/irf-site/static/js/main.4438aea1.chunk.js",
-    "main.js.map": "/irf-site/static/js/main.4438aea1.chunk.js.map",
+    "main.js": "/irf-site/static/js/main.717906d3.chunk.js",
+    "main.js.map": "/irf-site/static/js/main.717906d3.chunk.js.map",
     "runtime-main.js": "/irf-site/static/js/runtime-main.2a0087f8.js",
     "runtime-main.js.map": "/irf-site/static/js/runtime-main.2a0087f8.js.map",
-    "static/js/2.db5a0e9a.chunk.js": "/irf-site/static/js/2.db5a0e9a.chunk.js",
-    "static/js/2.db5a0e9a.chunk.js.map": "/irf-site/static/js/2.db5a0e9a.chunk.js.map",
+    "static/js/2.e854dc04.chunk.js": "/irf-site/static/js/2.e854dc04.chunk.js",
+    "static/js/2.e854dc04.chunk.js.map": "/irf-site/static/js/2.e854dc04.chunk.js.map",
     "index.html": "/irf-site/index.html",
-    "precache-manifest.e6df5daa96a0980394aebc237948b22d.js": "/irf-site/precache-manifest.e6df5daa96a0980394aebc237948b22d.js",
+    "precache-manifest.c9effc7d3006bb954ab4aa74d3c9c92f.js": "/irf-site/precache-manifest.c9effc7d3006bb954ab4aa74d3c9c92f.js",
     "service-worker.js": "/irf-site/service-worker.js",
     "static/css/main.f12cc950.chunk.css.map": "/irf-site/static/css/main.f12cc950.chunk.css.map",
-    "static/js/2.db5a0e9a.chunk.js.LICENSE.txt": "/irf-site/static/js/2.db5a0e9a.chunk.js.LICENSE.txt",
+    "static/js/2.e854dc04.chunk.js.LICENSE.txt": "/irf-site/static/js/2.e854dc04.chunk.js.LICENSE.txt",
     "static/media/dicoding.jpg": "/irf-site/static/media/dicoding.1a8986fa.jpg",
     "static/media/foto-irfaul.jpg": "/irf-site/static/media/foto-irfaul.52a17a7d.jpg",
     "static/media/agency.min.css": "/irf-site/static/media/map-image.f40ed5b1.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2a0087f8.js",
-    "static/js/2.db5a0e9a.chunk.js",
+    "static/js/2.e854dc04.chunk.js",
     "static/css/main.f12cc950.chunk.css",
-    "static/js/main.4438aea1.chunk.js"
+    "static/js/main.717906d3.chunk.js"
   ]
 }
